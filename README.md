@@ -1,1 +1,1 @@
-# mixalis
+# Computational Mathematics Projects
